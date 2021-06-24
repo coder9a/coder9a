@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Think%2C+Grow+%26+Share;Full+Stack+Java+Developer"> </p>
 
-<p align="center"> <img alt="GIF" src="img/git.jpg" width="500" height="400" /> </p>
+<p align="center"> <img alt="GIF" src="img/git.jpg" width="500" height="500" /> </p>
 
 
 <!-- Badges template - https://github.com/badges/shields -->
