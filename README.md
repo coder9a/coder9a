@@ -10,7 +10,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://twitter.com/RajBalhara"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raj-balhara/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/rajbalhara/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/coder9a"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -21,9 +21,9 @@
 <p align="right">
 <h3>Talking about Personal Stuffs:</h3></p>
 
-- 🔭 I’m currently working on **Python, Linux, Java, Server Side Programming, Spring**
+- 🔭 I’m currently working on **Kubernetes, Docker, Jenkins, Python, GoLang, Linux, Jenkins, CICD, Terraform, Ansible, HelmCharts**
 
-- 🌱 I’m currently learning **Spring Boot, Rest API, Hibernate**
+- 🌱 I’m currently learning **Architecture Design, GitOps, Piano**
 
 - 💬 Ask me about **Algorithms, Data Structures, Java, Python, C, Docker, Linux**
 
