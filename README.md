@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raj Balhara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h2 align="center">Welcome to my Github profile</h2>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=306998&center=true&lines=Think%2C+Share+%26+Grow;Full+Stack+Python+Developer">
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=306998&center=true&lines=Think%2C+Share+%26+Grow;Site+Reliability+Engineer">
 </p>
 
 <p align="center"> <img alt="GIF" src="img/git_image.jpg" width="500" height="500" /> </p>
