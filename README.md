@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raj Balhara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I'm coder9a <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h2 align="center">Welcome to my Github profile</h2>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=306998&center=true&lines=Think%2C+Share+%26+Grow;Site+Reliability+Engineer">
@@ -9,10 +9,7 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://twitter.com/RajBalhara"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rajbalhara/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/coder9a"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/coder9a"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3 align="center"> Glad to see you here! <img src="https://komarev.com/ghpvc/?username=coder9a&label=Profile%20views&color=0e75b6&style=flat"> </h3> 
 <p align="center">I'm a Computer Science Engineer having hands-on experience using Java, Python, Docker, PostgreSQL, MySQL, Servlet & JSP to create and implement software applications, I am confident that I will be an asset where I work. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as learning new languages and development techniques is important to me. I'm always eager to learn new technologies and gain knowledge from the environment around me. I'm hardworking, a quick learner, and goal-oriented. I can adapt myself to any working environment. The one thing that can define me is consistency. I can work efficiently both as an individual contributor as well as with a team. Besides this, I like to play badminton and I like book reading. I am an Active listener and Productive worker.</p>
@@ -27,8 +24,6 @@
 
 - 💬 Ask me about **Algorithms, Data Structures, Java, Python, C, Docker, Linux**
 
-- 📫 How to reach me **rajsinghbalhara@gmail.com**
-
 - ⚡ Amazing fact **You are 2007 Time's Person of the Year**
 
 ### Now Playing
@@ -36,13 +31,6 @@
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://andyruwruw.vercel.app/api/now-playing">
   </a>
-
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/rajbalhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajbalhara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-balhara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-balhara/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/coder9a/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/coder9a/profile" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools:
 
